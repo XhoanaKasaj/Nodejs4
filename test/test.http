@@ -28,3 +28,6 @@ Content-Type: application/json
     "message":"Node js"
 }
 
+### DB test
+GET http://localhost:5000/time HTTP/1.1
+
