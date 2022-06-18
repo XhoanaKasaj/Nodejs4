@@ -1,8 +1,8 @@
 ###GET ALL ITEMS
-GET http://localhost:5000/items HTTP/1.1
+GET http://localhost:8080/v2 HTTP/1.1
 
 ###GET SINGLE ITEM
-GET http://localhost:5000/items/1 HTTP/1.1
+GET http://127.0.0.1:8080/items/1 HTTP/1.1
 
 
 ### ADD ITEM

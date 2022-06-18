@@ -1,5 +1,5 @@
 ###GET ALL ITEMS
-GET http://localhost:5000/v2 HTTP/1.1
+GET http://127.0.0.1:8080/v2 HTTP/1.1
 
 ###GET SINGLE ITEM
 GET http://localhost:5000/v2/1 HTTP/1.1
